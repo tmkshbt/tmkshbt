@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmkshbt
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning R and Python.
+- 👀 I’m interested in fullstack development.
+- 🌱 I’m currently learning Python and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
